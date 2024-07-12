@@ -1,0 +1,5 @@
+baseURL = "//localhost:1313/"
+languageCode = 'en-us'
+title = 'Demo'
+theme = 'PaperMod'
+rel-me = 'false'
